@@ -1,11 +1,16 @@
 _repo: Evidences-of-Progress-Among-Colored-People_64338
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64338-h/images/cover.jpg
 creator:
   author:
     agent_name: Richings, G. F.
     gutenberg_agent_id: '52857'
     url: http://www.gutenberg.org/2009/agents/52857
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64338#Evidences-of-Progress-Among-Colored-People
 gutenberg_issued: '2021-01-19'
 gutenberg_type: Text
 identifiers:
